@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "jitesheng/node-app:v1"
+    image: "jitesheng/node-app-demo:v1"
     ports:
       - "8000:8000"
